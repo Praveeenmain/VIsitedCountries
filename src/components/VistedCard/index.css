@@ -1,0 +1,22 @@
+.country-image{
+    height:150px;
+    width:190px;
+}
+.visited-container{
+    margin:15px;
+   
+    display: flex;
+    flex-direction: column;
+}
+.country-details{
+    display: flex;
+    color:white;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.remove{
+    background-color: transparent;
+    color:white;
+    border:1px  #94a3b8 solid; 
+}
